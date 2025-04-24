@@ -9,3 +9,4 @@ public enum ResultType {
     DUPLICATE,
     NOT_FOUND
 }
+ 
